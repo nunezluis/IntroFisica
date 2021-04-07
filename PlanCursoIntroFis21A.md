@@ -1,0 +1,17 @@
+# Plan del Curso de Introducción a la Física UIS 2021-A
+
+## Descripción del Curso
+
+
+
+## Evaluación
+
+## Plan detallado del curso
+
+1. *Clase 1*: La Tierra, la Luna y el Sol
+<br/> **Primera Asignación**: [Estimación de la fricción en fluidos](https://www.overleaf.com/read/tqxvvkwjbzfw)
+<br/> **Fecha de entrega Reporte: 5 de mayo**
+<br/> **Fecha de sustentación: 12 de mayo**
+<br/> Aquí el [modelo de Reporte](https://www.overleaf.com/read/hfqvjnjwngnp)
+
+2. XXX
