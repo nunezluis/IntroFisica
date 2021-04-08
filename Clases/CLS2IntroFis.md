@@ -1,5 +1,5 @@
 # Introducción a la Física UIS Semestre 21A
-# Semana 2 ¿Cuánto cae un cuerpo cerca de la Tierra en 1 segundo?
+# Semana 2 ¿Cuánto cae un cuerpo cerca de la Tierra en un segundo?
 
 + **Objetivos de la semana**
 Mostrar la diferencia entre una tabla de datos, curvas y fórmulas. Acercamiento a movimiento uniforme y acelerado. Primer contacto con constantes universales y al ámbito de validez de las teorías.

@@ -6,7 +6,7 @@ Mostrar al estudiante cómo resultados de experimentos terrestres nos permiten c
 
   Durante esta clase discutiremos los siguientes puntos
   + ¿Cuál es la masa del Sol? La masa de la Tierra. La aceleración de la Luna y la Ley de gravitación universal.
-  + La constante de Newton - Cavendish. Aceleración centrípeta. Masa del sol y su densidad.
+  + La constante de Newton - Cavendish. Aceleración centrípeta. Masa del Sol y su densidad.
 
 + **Materiales de apoyo**
 
