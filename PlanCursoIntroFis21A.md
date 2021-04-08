@@ -14,4 +14,6 @@
 <br/> **Fecha de sustentación: 12 de mayo**
 <br/> Aquí el [modelo de Reporte](https://www.overleaf.com/read/hfqvjnjwngnp)
 
-2. XXX
+2. *Clase 2*: [¿Cuánto cae un cuerpo cerca de la Tierra en un segundo?](Clases/CLS2IntroFis.md)
+
+3. *Clase 3*: [¿Cuál es la masa del Sol?](Clases/CLS3IntroFis.md)
