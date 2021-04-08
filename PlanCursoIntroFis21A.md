@@ -8,7 +8,7 @@
 
 ## Plan detallado del curso
 
-1. *Clase 1*: La Tierra, la Luna y el Sol
+1. *Clase 1*: [La Tierra, la Luna y el Sol](Clases/CLS1IntroFis.md)
 <br/> **Primera Asignación**: [Estimación de la fricción en fluidos](https://www.overleaf.com/read/tqxvvkwjbzfw)
 <br/> **Fecha de entrega Reporte: 5 de mayo**
 <br/> **Fecha de sustentación: 12 de mayo**

@@ -13,7 +13,11 @@ Durante esta clase discutiremos los siguientes puntos
 Revisar el siguiente material
 
 + **Materiales de apoyo**
+Pueden consultar el material de apoyo de la clase: el [pdf de las notas](Clases/Materiales/Cls1_IntroFis.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
     + La Luna está a una distancia de 60RT donde RT  es el radio de la Tierra. La Luna vista desde la Tierra subtiende un ángulo aproximado de 0,50º. ¿Qué fracción del radio de la Tierra tiene el de la Luna? Determine el ángulo que forma la Tierra vista desde la Luna, en grados y en radianes.
-1-2.- ¿Cuántos minutos angulares gira la Tierra en un tiempo de un minuto? ¿Depende de qué punto del planeta elijamos?
+    + ¿Cuántos minutos angulares gira la Tierra en un tiempo de un minuto? ¿Depende de qué punto del planeta elijamos?
+    + Haga uso de la calculadora de su celular para convencerse de que el senß ~ß para ángulos ß pequeños en radianes. ¿Qué significa pequeño en este contexto? Intente una explicación, recuerde cómo se define en seno.
+    + ¿Cuántos grados2 tiene la bóveda celeste? ¿Aproximadamente cuántas lunas harían falta para cubrirla?
+    + Haga una demostración del teorema del seno.
