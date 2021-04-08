@@ -9,12 +9,9 @@ Acostumbrar al estudiante al uso de herramientas geométricas, consolidar la ide
   + ¿A qué distancia están la Luna y el Sol?
   + Medición de ángulos, vueltas, grados, radianes. Geometría, teorema del seno. Distancia a la Luna, al Sol, tamaños de la Luna y del Sol.
 
-+ **Actividad antes de iniciar la clase**
-Revisar el siguiente material
-
 + **Materiales de apoyo**
 Pueden consultar el material de apoyo de la clase:
-  + el [pdf de las notas](Clases/Materiales/Cls1_IntroFis.pdf)
+  + el [pdf de las notas de clase](Clases/Materiales/Cls1_IntroFis.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
     + La Luna está a una distancia de 60RT donde RT  es el radio de la Tierra. La Luna vista desde la Tierra subtiende un ángulo aproximado de 0,50º. ¿Qué fracción del radio de la Tierra tiene el de la Luna? Determine el ángulo que forma la Tierra vista desde la Luna, en grados y en radianes.
