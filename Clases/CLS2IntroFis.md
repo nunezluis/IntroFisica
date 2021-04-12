@@ -10,6 +10,8 @@ Mostrar la diferencia entre una tabla de datos, curvas y fórmulas. Acercamiento
   + Movimiento de proyectiles. ¿Cuánto desciende la Tierra en una distancia x? Velocidad para que orbite un cuerpo a ras de la superficie de la Tierra.
 
 + **Materiales de apoyo**
+Pueden consultar el material de apoyo de la clase:
+  + el [pdf de las notas de clase](Clases/Materiales/Cls2_CuantoCaeCuerpoen1s.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
     + Grafique la velocidad en función del tiempo y la distancia que baja en función del tiempo.
