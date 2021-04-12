@@ -12,7 +12,6 @@ Acostumbrar al estudiante al uso de herramientas geométricas, consolidar la ide
 + **Materiales de apoyo**
 Pueden consultar el material de apoyo de la clase:
   + el [pdf de las notas de clase](Materiales/Cls1_IntroFis.pdf)
-  + el [pdf de las notas de clase](https://github.com/nunezluis/IntroFisica/blob/main/Clases/Materiales/Cls1_IntroFis.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
     + La Luna está a una distancia de 60RT donde RT  es el radio de la Tierra. La Luna vista desde la Tierra subtiende un ángulo aproximado de 0,50º. ¿Qué fracción del radio de la Tierra tiene el de la Luna? Determine el ángulo que forma la Tierra vista desde la Luna, en grados y en radianes.
