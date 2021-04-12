@@ -12,6 +12,7 @@ Mostrar la diferencia entre una tabla de datos, curvas y fórmulas. Acercamiento
 + **Materiales de apoyo**
 Pueden consultar el material de apoyo de la clase:
   + el [pdf de las notas de clase](Materiales/Cls2_CuantoCaeCuerpoen1s.pdf)
+  + el [pdf de las notas de clase](Materiales/Cls2_CuantoCaeCuerpoen1sV2.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
     + Grafique la velocidad en función del tiempo y la distancia que baja en función del tiempo.
