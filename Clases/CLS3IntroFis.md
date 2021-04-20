@@ -9,6 +9,8 @@ Mostrar al estudiante cómo resultados de experimentos terrestres nos permiten c
   + La constante de Newton - Cavendish. Aceleración centrípeta. Masa del Sol y su densidad.
 
 + **Materiales de apoyo**
+Pueden consultar el material de apoyo de la clase:
+  + el [pdf de las notas de clase](Materiales/Cls3MasadelSol.pdf)
 
 + **Al finalizar estos contenidos** El estudiantes deberán estar en capacidad de realizar los siguientes ejercicios
   + Sabiendo que g = 10m/s y que el radio de la Tierra es de unos 6.400Km, calcule la masa de la Tierra.
