@@ -13,7 +13,7 @@
 <br/> **Fecha de entrega Reporte: 5 de mayo**
 <br/> **Fecha de sustentación: 12 de mayo**
 Aquí el [modelo de Reporte](https://www.overleaf.com/read/hfqvjnjwngnp)
-En esta carpeta encontrarán varios [*script* de MAXIMA](https://github.com/nunezluis/Programas-/tree/main/IntroduccionFisica) 
+<br/> En esta carpeta encontrarán varios [*script* de MAXIMA](https://github.com/nunezluis/Programas-/tree/main/IntroduccionFisica) 
 
 <br/>  Aquí el [video de la clase 1](https://drive.google.com/file/d/1NoeWa94OBJyatrylgwC6qmTfxu5tCWAb/view?usp=sharing)
 
