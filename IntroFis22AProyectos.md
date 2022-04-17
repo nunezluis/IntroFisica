@@ -40,4 +40,4 @@ Queremos estimar:
   + la posición del centro de masa para *la lata equilibrista*;
   + el momento de inercia de una lata de cerveza con varias presentaciones: vacía, con un par de monedas incrustadas y llena
 
-El texto completo de esta segunda propuesta la pueden encontrar [aqui](https://www.overleaf.com/read/sqbsmmnnbvdn)
+El texto completo de esta tercera y última propuesta la pueden encontrar [aqui](https://www.overleaf.com/read/sqbsmmnnbvdn)
