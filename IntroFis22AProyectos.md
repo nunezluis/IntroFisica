@@ -20,7 +20,7 @@ Es claro que una servilleta estirada y la misma servilleta pero convertida en un
 
 El texto completo de la propuesta la pueden encontrar [aqui](https://www.overleaf.com/read/tqxvvkwjbzfw)
 
-## Proyecto 2. Estimanción de la aceleración de gravedad mediante la oscilación de un péndulo
+## Proyecto 2. Estimanción de la aceleración de gravedad mediante  un péndulo
 **Entrega 21 junio**
 
 **Sustentación 18 julio**
