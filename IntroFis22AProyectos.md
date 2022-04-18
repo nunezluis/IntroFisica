@@ -3,7 +3,7 @@ A continuación presentamos tres proyectos para reforzar los contenidos desarrol
 
 Son tres experimentos caseros con materiales que pueden encontrarse en cualquier casa. Descubrimos que en pandemia se puede trabajar y colaborar.
 
-La idea es que se organicen en equipos de dos estudiantes y desarrollen la experiencia.     Los resultados y conclusiones del experimento deberán ser entregados mediante un reporte técnico, que seguirá las pautas estándares de un reporte profesional. Para garantizar la reproducibilidad de sus resultados deberán adjuntar también los archivos de datos de las mediciones y los códigos de las simulaciones. Finalmente la sustentación de esta experiencia habrá de será realizada a través de una presentación (máximo 6 láminas) que narre la experiencia.
+La idea es que se organicen en equipos de dos estudiantes y desarrollen la experiencia.     Los resultados y conclusiones del experimento deberán ser entregados mediante un reporte técnico, que seguirá las pautas estándares de un reporte profesional. Un ejemplo de reporte lo pueden encontrar [aquí](https://www.overleaf.com/read/hfqvjnjwngnp) Para garantizar la reproducibilidad de sus resultados deberán adjuntar también los archivos de datos de las mediciones y los códigos de las simulaciones. Finalmente la sustentación de esta experiencia habrá de será realizada a través de una presentación (máximo 6 láminas) que narre la experiencia.
 
 Todos estos productos deberán estar depositados en el ambiente MiLAB que garantice la reproducibilidad de sus experimentos.  
 
