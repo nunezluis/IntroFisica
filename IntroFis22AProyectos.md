@@ -10,9 +10,9 @@ Todos estos productos deberán estar depositados en el ambiente MiLAB que garant
 Cada proyecto tendrá un valor del 10% de la nota.
 
 ## Proyecto 1. Estimación de la fuerza de roce en una servilleta
-**Entrega 16 mayo**
+**Entrega 5 mayo**
 
-**Sustentación 23 mayo**
+**Sustentación 12 mayo**
 
 Proponemos realizar el experimento de dejar caer la servilleta extendida y comprimida.
 
@@ -21,9 +21,9 @@ Es claro que una servilleta estirada y la misma servilleta pero convertida en un
 El texto completo de la propuesta la pueden encontrar [aqui](https://www.overleaf.com/read/tqxvvkwjbzfw)
 
 ## Proyecto 2. Estimanción de la aceleración de gravedad mediante  un péndulo
-**Entrega 21 junio**
+**Entrega 9 junio**
 
-**Sustentación 18 julio**
+**Sustentación 16 julio**
 
 En esta propuesta queremos estimar el valor de la aceleración de gravedad a partir de la medición del período de oscilación de un péndulo.  
 
